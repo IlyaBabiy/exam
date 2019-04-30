@@ -1,0 +1,426 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+header {
+ background-image: url(Image.jpg);
+ height: 100vh;
+  background-color: rgb(114, 113, 113);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.title {
+    position: absolute;
+    margin-top:200px;
+    margin-left: 345px;
+   
+}
+.Bhromaon {
+    width: 312px;
+    height: 40px;
+    color: #ffffff;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 26px;
+    text-transform: uppercase;
+    letter-spacing: 4.8px;
+    margin-left: 145px;
+}
+.travel {
+    font-family:"Josefin Sans", sans-serif;
+    text-align: center;
+    width: 315px;
+    height: 21px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-left: 150px;
+    letter-spacing: 5.00px;
+    padding-top: 15px;
+}
+.search {
+    width: 500px;
+    height: 60px;
+    background-color: #ffffff;
+    text-align: center;
+    color: #999999;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 2.8px;
+    font-family: "Josefin Sans", sans-serif;
+}
+.button {
+    width: 150px;
+    height: 60px;
+    border: 2px solid #ffffff;
+ 
+    background-color: #5474fd;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: Aleo;
+    font-size: 14px;
+    line-height: 26px;
+    text-transform: uppercase;
+    letter-spacing: 1.4px;
+    background-image: url(12.png);
+    background-repeat: no-repeat;
+    background-position: 90% 50%;
+}
+.headers {
+    display: flex;
+    padding-top:50px;
+}
+.down {
+    
+    width: 93px;
+    height: 11px;
+    font-size: 14px;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    line-height: 26px;
+    color: #ffffff;
+    padding-top: 120px;
+    margin-left: 260px;
+
+    
+}
+.sign {
+    margin-top: 18px;
+    margin-left: 290px;
+    text-transform: uppercase;
+}
+.footers {
+    height: 80px;
+    width: 100%;
+    background-color: #5474fd;
+  
+    position: absolute;
+}
+.left {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26px;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+    font-family: "Josefin Sans", sans-serif;
+    margin-top:28px;
+    margin-left: 130px;
+}
+.selections{
+    margin-left: 745px;
+    bottom: 25px;
+    position: absolute;
+}
+li{
+    float: left;
+    padding-right: 22px;
+    list-style: none;
+
+  
+}
+.text {
+    font-family: 'Aleo', serif;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 26px;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 35px
+
+}
+.two{
+    background-image: url(whyus-bg.jpg);
+    height: 100vh;
+  background-color: rgb(114, 113, 113);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+.Choose {
+    font-family: 'Aleo', serif;
+    color: #ffffff;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 26px;
+    position: relative;
+    top: 250px;
+    margin-left: 130px;
+
+}
+.paragraph {
+    width: 550px;
+    height: 126px;
+    position: absolute;
+    color: #e8e8e8;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 1.6px;
+    margin-top: 300px;
+    margin-left: 130px;
+}
+.paragraphs {
+    width: 550px;
+    height: 126px;
+    position: absolute;
+    color: #e8e8e8;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 1.6px;
+    margin-top: 395px;
+    margin-left: 130px;
+}
+.but {
+    position: relative;
+    width: 225px;
+    height: 60px;
+    margin-top: 500px;
+    background-color: #5474fd;
+    margin-left: 130px;
+
+}
+.Explore {
+   margin-left:45px;
+   top:22px;
+   position: absolute;
+   width: 149px;
+   height: 13px;
+   color: #ffffff;
+   font-size: 16px;
+   font-weight: 400;
+   text-transform: uppercase;
+
+   font-family: 'Aleo', serif;
+
+}
+.river {
+    margin-top: 160px;
+    position: absolute;
+    margin-left: 820px;
+
+}
+.mountain {
+    position: absolute;
+    margin-top: 385px;
+    margin-left: 910px;
+}
+
+ 
+.but:hover {
+    background: rgb(15, 60, 149);
+}
+.three{
+
+height: 337px;
+background-color: #333333;
+}
+.icon {
+    padding-left: 246px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.word {
+  display: flex;
+ position: absolute;
+ margin-top: 34px;
+ width: 214px;
+ height: 27px;
+ color: #e8e8e8;
+ font-size: 30px;
+ font-weight: 400;
+ line-height: 26px;
+ font-family: 'Aleo', serif;
+ margin-right: 800px;
+}
+.Places {
+    margin-left: 250px;
+}
+.Select {
+margin-left: 600px;
+
+}
+
+.Book{
+    margin-left: 950px;
+
+}
+.four {
+    background-image: url(18.jpg);
+    height: 100vh;
+  background-color: rgb(114, 113, 113);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+.container {
+    width: 540px;
+    height: 371px;
+    background-color: #232323;
+    opacity: 0.9;
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 130px;
+}
+.Spain {
+    width: 50px;
+    height: 19px;
+    color: #e8e8e8;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 50px;
+    font-family: "Josefin Sans", sans-serif;
+    margin-left: 20px;
+}
+.Madrid{
+
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    text-transform: uppercase;
+    padding-top: 30px;
+    margin-left: 20px;
+}
+.explain {
+
+    color: #e8e8e8;
+    font-size: 16px;
+   
+    line-height: 26px;
+    padding-top: 30px;
+    margin-left: 20px;
+
+}
+.now {
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 225px;
+    height: 60px;
+    background-color: #5474fd;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-transform: uppercase;
+    text-align: center;
+    border: none;
+    font-family: 'Aleo', serif;
+ 
+}
+.five {
+  background-image: url(4141.jpg);
+  height: 100vh;
+  background-color: rgb(114, 113, 113);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.containers{
+    width: 540px;
+    height: 371px;
+    background-color: #232323;
+    opacity: 0.9;
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 675px;
+}
+.six {
+    background-image: url(6.jpg);
+    height: 100vh;
+    background-color: rgb(114, 113, 113);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.Tourist {
+    color: #ffffff;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 26px;
+    font-family: 'Aleo', serif;
+    text-align: center;
+    padding-top: 120px;
+
+}
+.Sam{
+    width: 1065px;
+    height: 284px;
+    background-color: #333333;
+    margin-left: 130px;
+    margin-top: 94px;
+}
+.Sumon{
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 40px;
+    font-size: 20px;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #fefefe;
+}
+.must{
+    position: absolute;
+    width: 551px;
+    height: 136px;
+    color: #e8e8e8;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-left: 490px;
+    font-family: "Josefin Sans", sans-serif;
+    margin-top: 90px;
+}
+footer {
+    height: 148px;
+    background-color: #232323;
+    text-align: center;
+    padding-top: 120px;
+}
+.Bhromaons{
+    width: 163px;
+    height: 20px;
+    color: #ffffff;
+    font-size: 24px;
+    font-family: "Josefin Sans", sans-serif;
+    text-transform: uppercase;
+    line-height: 26px; 
+    margin-left: 590px;
+    letter-spacing: 3.36px;
+}
+
+.Safe {
+    padding-top: 15px;
+    width: 166px;
+    height: 16px;
+    color: #ffffff;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-left: 590px;
+    letter-spacing: 1.px;
+}
+
+.ico {
+  padding-top: 31px;
+  margin-left: 25px;
+
+}
+.ic{
+    padding-right:20px;
+}
